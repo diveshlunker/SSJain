@@ -72,7 +72,7 @@ body {
 #intro {
   position: absolute;
   left: 0;
-  top: 15%;
+  margin-top: 15%;
   padding: 0 10px;
   width: 100%;
   text-align: center;
@@ -127,7 +127,7 @@ p {
     top:0;
     overflow: hidden;
     padding-top: 20px;
-    margin-top: 15%;
+    margin-top: 17%;
 }
 .left{
     left:0;
